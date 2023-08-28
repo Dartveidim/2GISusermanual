@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/vadim/Desktop/Project/workdocs/Manual/UserManual/temp/pdf-css-html5/oxygen_dita_temp/publishing-template/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/vadim/Desktop/Project/workdocs/Manual/UserManual/temp/pdf-css-html5/oxygen_dita_temp/publishing-template/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="modSaragosaManual" specializations="@props/deliveryTarget" xml:lang="ru" xtrc="map:1;3:43" xtrf="file:/C:/Users/vadim/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Геоинформационная система «<keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>». Руководство пользователя</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+
+    <title class="- topic/title ">Геоинформационная система «<keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>». Руководство пользователя</title>
+    
+    <?ditaot gentext?><?ditaot genshortdesc?>
+
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Введение"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d164e23">Введение</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" navtitle="Область применения" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="overview"><resourceid appid="overview" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Назначение электромобиля</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_2" navtitle="Краткое описание возможностей" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_ly3_zdn_qcb"><resourceid appid="concept_ly3_zdn_qcb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Общий вид электромобиля</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_hy5_3sn_qcb"><resourceid appid="concept_hy5_3sn_qcb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Меры безопасности при зарядке аккумулятора</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" navtitle="Перечень эксплуатационной документации, с которыми необходимо ознакомиться пользователю" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="reference_p4b_3gn_qcb"><resourceid appid="reference_p4b_3gn_qcb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Технические характеристики</navtitle><?ditaot gentext?></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Назначение и условия применения"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d164e57">Назначение и условия применения</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_hy5_3sn_qcb"><resourceid appid="concept_hy5_3sn_qcb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3_ssol1" class="- topic/navtitle ">Меры безопасности при зарядке аккумулятора</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_hy5_3sn_qcb"><resourceid appid="concept_hy5_3sn_qcb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Меры безопасности при вождении</navtitle><?ditaot gentext?></topicmeta></topicref></topichead>
+
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Подготовка к работе"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d164e75">Подготовка к работе</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" navtitle="Описание всех выполняемых функций, задач, комплексов задач, процедур" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="overview"><resourceid appid="overview" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1_ssol1" class="- topic/navtitle ">Назначение электромобиля</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="Saragosa/topics/driving.dita"><topicmeta class="- map/topicmeta " data-topic-id=""><resourceid appid="" class="- topic/resourceid " oxy-source="topic"/></topicmeta></topicref><topicref class="- map/topicref " href="Saragosa/topics/parking.dita"><topicmeta class="- map/topicmeta " data-topic-id=""><resourceid appid="" class="- topic/resourceid " oxy-source="topic"/></topicmeta></topicref></topichead>
+
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Описание операций"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d164e92">Описание операций</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" navtitle="Описание всех выполняемых функций, задач, комплексов задач, процедур" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="overview"><resourceid appid="overview" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1_ssol2" class="- topic/navtitle ">Назначение электромобиля</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_2" navtitle="Описание операций технологического процесса обработки данных, необходимых для выполнения функций, комплексов задач (задач), процедур" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_ly3_zdn_qcb"><resourceid appid="concept_ly3_zdn_qcb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2_ssol1" class="- topic/navtitle ">Общий вид электромобиля</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_yxn_yp4_qcb"><resourceid appid="task_yxn_yp4_qcb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Зарядка аккумулятора</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="concept_hy5_3sn_qcb3"><resourceid appid="concept_hy5_3sn_qcb3" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Мойка электромобиля</navtitle><?ditaot gentext?></topicmeta></topicref></topichead>
+
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Аварийные ситуации"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d164e126">Аварийные ситуации</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_yxn_yp4_qcb"><resourceid appid="task_yxn_yp4_qcb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6_ssol1" class="- topic/navtitle ">Зарядка аккумулятора</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="concept_hy5_3sn_qcb3"><resourceid appid="concept_hy5_3sn_qcb3" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7_ssol1" class="- topic/navtitle ">Мойка электромобиля</navtitle><?ditaot gentext?></topicmeta></topicref></topichead>
+    
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Рекомендации к освоению"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d164e144">Рекомендации к освоению</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_yxn_yp4_qcb"><resourceid appid="task_yxn_yp4_qcb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6_ssol2" class="- topic/navtitle ">Зарядка аккумулятора</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="concept_hy5_3sn_qcb3"><resourceid appid="concept_hy5_3sn_qcb3" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7_ssol2" class="- topic/navtitle ">Мойка электромобиля</navtitle><?ditaot gentext?></topicmeta></topicref></topichead>
+
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d164e23" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Введение</ph></title><concept class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="overview" oid="overview" specializations="@props/deliveryTarget" xml:lang="ru">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Назначение электромобиля</ph></title>
+    <prolog class="- topic/prolog "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <section class="- topic/section ">
+   <p class="- topic/p ">Электромобиль «<keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>» разработан
+    компанией «<keyword class="- topic/keyword " keyref="companyName">ООО «ДубльГИС»</keyword>» для перемещения между городами по 
+    высокоскоростным трассам.</p>
+  </section>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="concept_ly3_zdn_qcb" oid="concept_ly3_zdn_qcb" specializations="@props/deliveryTarget" xml:lang="ru">
+ <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Общий вид электромобиля</ph></title>
+ <prolog class="- topic/prolog "/>
+ <conbody class="- topic/body  concept/conbody ">
+  <p class="- topic/p " props="manual">Общий вид электромобиля «<keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword>
+   <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>» показан на рисунке. </p>
+  <fig class="- topic/fig "><image class="- topic/image " dita-ot:image-width="282" dita-ot:image-height="179" href="file:/C:/Users/vadim/Desktop/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/orlandinaGeneralView.jpg" placement="inline"/></fig>
+ </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="concept_hy5_3sn_qcb" oid="concept_hy5_3sn_qcb" specializations="@props/deliveryTarget" xml:lang="ru">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Меры безопасности при зарядке аккумулятора</ph></title>
+    <prolog class="- topic/prolog "/>
+    <conbody class="- topic/body  concept/conbody ">
+
+        <note class="- topic/note " type="danger">
+            <p class="- topic/p ">Во избежание поражения электрическим током категорически запрещается осуществлять
+                зарядку электромобиль на открытом воздухе во время дождя или мокрого снега. </p>
+        </note>
+        <note class="- topic/note " type="danger">
+            <p class="- topic/p ">Во избежание возгорания электромобиля категорически запрещается осуществлять зарядку
+                аккумулятора электромобиля от неисправного блока питания, в том числе, при наличии
+                повреждений изоляции силовых кабелей. Оберегайте силовые кабели от грызунов и
+                зайцеобразных.</p>
+        </note>
+        <note class="- topic/note " type="danger">
+            <p class="- topic/p ">Во избежание возникновения пожара или повреждения электропроводки осуществляйте
+                зарядку аккумулятора электромобиля только от силовой электрической сети, снабженной
+                исправными устройствами защиты или автоматическими выключателями.</p>
+        </note>
+
+    </conbody>
+</concept><reference class="- topic/topic       reference/reference " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="reference_p4b_3gn_qcb" oid="reference_p4b_3gn_qcb" specializations="@props/deliveryTarget" xml:lang="ru">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Технические характеристики</ph></title>
+  <prolog class="- topic/prolog "/>
+  <refbody class="- topic/body        reference/refbody ">
+    <section class="- topic/section ">
+      <p class="- topic/p " props="manual">Технические характеристики модели «<keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword>
+        <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>» приведены в таблице.</p>
+      <table class="- topic/table " colsep="1" frame="all" rowsep="1" id="d199e255">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Технические характеристики</ph></title>
+    <tgroup class="- topic/tgroup " cols="2">
+     <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;32:54" xtrf="file:/C:/Users/vadim/Desktop/Project/workdocs/Manual/UserManual/UM2GIS/topics/modinfo.dita" style="width:50%;"/>
+     <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;33:54" xtrf="file:/C:/Users/vadim/Desktop/Project/workdocs/Manual/UserManual/UM2GIS/topics/modinfo.dita" style="width:50%;"/>
+     <thead class="- topic/thead ">
+      <row class="- topic/row ">
+       <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Характеристика</entry>
+       <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Значение</entry>
+      </row>
+     </thead>
+     <tbody class="- topic/tbody ">
+      <row class="- topic/row ">
+       <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Мощность электродвигателя, кВт</entry>
+       <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">4</entry>
+      </row>
+      <row class="- topic/row ">
+       <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Запас хода, км</entry>
+       <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">600</entry>
+      </row>
+      <row class="- topic/row ">
+       <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Длина, м</entry>
+       <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">3</entry>
+      </row>
+      <row class="- topic/row ">
+       <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Ширина</entry>
+       <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">1,5</entry>
+      </row>
+      <row class="- topic/row ">
+       <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">Высота</entry>
+       <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">1,5</entry>
+      </row>
+      <row class="- topic/row ">
+       <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">Масса, кг</entry>
+       <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">300</entry>
+      </row>
+      <row class="- topic/row ">
+       <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">Количество мест для пассажиров</entry>
+       <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">3</entry>
+      </row>
+      <row class="- topic/row ">
+       <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9">Емкость багажника, л</entry>
+       <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9">400</entry>
+      </row>
+      <row class="- topic/row ">
+       <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10">Напряжение зарядки, В</entry>
+       <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10">220</entry>
+      </row>
+     </tbody>
+    </tgroup>
+   </table>
+      <note class="- topic/note " props="manual" type="important">
+        <p class="- topic/p ">Соответствие фактических значений технических характеристик электромобиля приведенной
+          таблице гарантированно только при обслуживании в авторизованных сервисных центрах. </p>
+      </note>
+      <sectiondiv class="- topic/sectiondiv " props="datasheet">
+        <p class="- topic/p ">Наши инженеры трудятся, не покладая рук, чтобы добиться наилучших характеристик наших
+          электромобилей.</p>        
+      </sectiondiv>
+    </section>
+  </refbody>
+</reference></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d164e57" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Назначение и условия применения</ph></title><concept class="- topic/topic concept/concept " id="unique_3_ssol1" topicrefclass="- map/topicref " nd:nd-id="concept_hy5_3sn_qcb" oid="concept_hy5_3sn_qcb" specializations="@props/deliveryTarget" xml:lang="ru">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Меры безопасности при зарядке аккумулятора</ph></title>
+    <prolog class="- topic/prolog "/>
+    <conbody class="- topic/body  concept/conbody ">
+
+        <note class="- topic/note " type="danger">
+            <p class="- topic/p ">Во избежание поражения электрическим током категорически запрещается осуществлять
+                зарядку электромобиль на открытом воздухе во время дождя или мокрого снега. </p>
+        </note>
+        <note class="- topic/note " type="danger">
+            <p class="- topic/p ">Во избежание возгорания электромобиля категорически запрещается осуществлять зарядку
+                аккумулятора электромобиля от неисправного блока питания, в том числе, при наличии
+                повреждений изоляции силовых кабелей. Оберегайте силовые кабели от грызунов и
+                зайцеобразных.</p>
+        </note>
+        <note class="- topic/note " type="danger">
+            <p class="- topic/p ">Во избежание возникновения пожара или повреждения электропроводки осуществляйте
+                зарядку аккумулятора электромобиля только от силовой электрической сети, снабженной
+                исправными устройствами защиты или автоматическими выключателями.</p>
+        </note>
+
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="concept_hy5_3sn_qcb" oid="concept_hy5_3sn_qcb" specializations="@props/deliveryTarget" xml:lang="ru">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Меры безопасности при вождении</ph></title>
+    <prolog class="- topic/prolog "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <note class="- topic/note " type="danger">
+            <p class="- topic/p ">При вождении электромобиля во время грозы следует избегать перемещения по открытым
+                пространствам, лишенным древесной растительности или многоэтажной застройки. </p>
+        </note>
+        <note class="- topic/note " type="danger">
+            <p class="- topic/p ">Категорически не рекомендуется заезжать на электромобиле на территорию
+                автозаправочных станций, торгующих легковоспламеняющимися жидкостями. </p>
+        </note>
+    </conbody>
+</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d164e75" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Подготовка к работе</ph></title><concept class="- topic/topic concept/concept " id="unique_1_ssol1" topicrefclass="- map/topicref " nd:nd-id="overview" oid="overview" specializations="@props/deliveryTarget" xml:lang="ru">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Назначение электромобиля</ph></title>
+    <prolog class="- topic/prolog "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <section class="- topic/section ">
+   <p class="- topic/p ">Электромобиль «<keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>» разработан
+    компанией «<keyword class="- topic/keyword " keyref="companyName">ООО «ДубльГИС»</keyword>» для перемещения между городами по 
+    высокоскоростным трассам.</p>
+  </section>
+    </conbody>
+</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d164e92" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Описание операций</ph></title><concept class="- topic/topic concept/concept " id="unique_1_ssol2" topicrefclass="- map/topicref " nd:nd-id="overview" oid="overview" specializations="@props/deliveryTarget" xml:lang="ru">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Назначение электромобиля</ph></title>
+    <prolog class="- topic/prolog "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <section class="- topic/section ">
+   <p class="- topic/p ">Электромобиль «<keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>» разработан
+    компанией «<keyword class="- topic/keyword " keyref="companyName">ООО «ДубльГИС»</keyword>» для перемещения между городами по 
+    высокоскоростным трассам.</p>
+  </section>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_2_ssol1" topicrefclass="- map/topicref " nd:nd-id="concept_ly3_zdn_qcb" oid="concept_ly3_zdn_qcb" specializations="@props/deliveryTarget" xml:lang="ru">
+ <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Общий вид электромобиля</ph></title>
+ <prolog class="- topic/prolog "/>
+ <conbody class="- topic/body  concept/conbody ">
+  <p class="- topic/p " props="manual">Общий вид электромобиля «<keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword>
+   <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>» показан на рисунке. </p>
+  <fig class="- topic/fig "><image class="- topic/image " dita-ot:image-width="282" dita-ot:image-height="179" href="file:/C:/Users/vadim/Desktop/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/orlandinaGeneralView.jpg" placement="inline"/></fig>
+ </conbody>
+</concept><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="task_yxn_yp4_qcb" oid="task_yxn_yp4_qcb" specializations="@props/deliveryTarget" xml:lang="ru">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Зарядка аккумулятора</ph></title>
+    <prolog class="- topic/prolog "/>
+    <taskbody class="- topic/body task/taskbody ">
+
+        <prereq class="- topic/section task/prereq ">
+            <note class="- topic/note " type="important">
+    <p class="- topic/p ">Электромобиль — современный технически сложный подвижной электромеханический прибор. Перед
+     обслуживанием электромобиля ознакомьтесь с разделом «Безопасность».</p>
+   </note>
+            <note class="- topic/note " product="Сарагоса" type="attention">
+                <p class="- topic/p ">Малые габариты электромобиля не позволяют разместить блок питания в салоне во
+                    время зарядки аккумулятора.</p>
+            </note>
+            <note class="- topic/note " product="Орландина" type="tip">
+                <p class="- topic/p ">Габариты электромобиля позволяют разместить блок питания в салоне во время
+                    зарядки аккумулятора.</p>
+            </note>
+        </prereq>
+
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">На необходимость зарядки аккумулятора электромобиля указывает низкий (менее 20%)
+                уровень заряда, отображаемый индикатором на приборной панели электромобиля.</p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Для того чтобы произвести зарядку аккумулятора:</b></p>
+        </context>
+        
+        <steps class="- topic/ol task/steps ">            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Извлеките защитную заглушку из силового разъема на корпусе электромобиля.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Поместите штекер блока питания электромобиля в силовой разъем.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig "><image class="- topic/image " href="file:/C:/Users/vadim/Desktop/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/charging.jpg" placement="inline" width="7cm"/></fig>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Поместите вилку силового кабеля блока питания в электрическую розетку.</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult ">Индикатор на корпусе блока питания начнет светиться красным
+                    цветом.</stepresult>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Дождитесь, когда индикатор на корпусе блока питания начнет светиться зеленым
+                    цветом.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Извлеките вилку силового кабеля блока питания из электрической розетки. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Извлеките штекер блока питания из силового разъема.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Поместите защитную заглушку в силовой разъем.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="concept_hy5_3sn_qcb3" oid="concept_hy5_3sn_qcb3" specializations="@props/deliveryTarget" xml:lang="ru">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Мойка электромобиля</ph></title>
+    <prolog class="- topic/prolog "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq ">
+            <note class="- topic/note " type="danger">
+                <p class="- topic/p ">Категорически запрещается производить мойку электромобиля, системы которого
+                    находятся под напряжением. Мойку электромобиля допускается производить только в
+                    полностью обесточенном состоянии. </p>
+            </note>
+            <note class="- topic/note " type="important">
+    <p class="- topic/p ">Электромобиль — современный технически сложный подвижной электромеханический прибор. Перед
+     обслуживанием электромобиля ознакомьтесь с разделом «Безопасность».</p>
+   </note>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">В случае загрязнения корпуса электромобиля посторонними веществами следует произвести
+                его мойку с целью его очистки от посторонних веществ.</p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Для того чтобы произвести мойку электромобиля:</b></p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Запаркуйте электромобиль в рабочей зоне моечного павильона.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Полностью поднимите стекла всех дверей электромобиля.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Дождитесь полной остановки электродвигателя. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Обесточьте все системы электромобиля механическим тумблером.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Плотно закройте все двери электромобиля.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Дождитесь завершения процесса мойки корпуса электромобиля.</cmd>
+            </step>
+        </steps>
+
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d164e126" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Аварийные ситуации</ph></title><task class="- topic/topic task/task " id="unique_6_ssol1" topicrefclass="- map/topicref " nd:nd-id="task_yxn_yp4_qcb" oid="task_yxn_yp4_qcb" specializations="@props/deliveryTarget" xml:lang="ru">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Зарядка аккумулятора</ph></title>
+    <prolog class="- topic/prolog "/>
+    <taskbody class="- topic/body task/taskbody ">
+
+        <prereq class="- topic/section task/prereq ">
+            <note class="- topic/note " type="important">
+    <p class="- topic/p ">Электромобиль — современный технически сложный подвижной электромеханический прибор. Перед
+     обслуживанием электромобиля ознакомьтесь с разделом «Безопасность».</p>
+   </note>
+            <note class="- topic/note " product="Сарагоса" type="attention">
+                <p class="- topic/p ">Малые габариты электромобиля не позволяют разместить блок питания в салоне во
+                    время зарядки аккумулятора.</p>
+            </note>
+            <note class="- topic/note " product="Орландина" type="tip">
+                <p class="- topic/p ">Габариты электромобиля позволяют разместить блок питания в салоне во время
+                    зарядки аккумулятора.</p>
+            </note>
+        </prereq>
+
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">На необходимость зарядки аккумулятора электромобиля указывает низкий (менее 20%)
+                уровень заряда, отображаемый индикатором на приборной панели электромобиля.</p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Для того чтобы произвести зарядку аккумулятора:</b></p>
+        </context>
+        
+        <steps class="- topic/ol task/steps ">            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Извлеките защитную заглушку из силового разъема на корпусе электромобиля.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Поместите штекер блока питания электромобиля в силовой разъем.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig "><image class="- topic/image " href="file:/C:/Users/vadim/Desktop/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/charging.jpg" placement="inline" width="7cm"/></fig>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Поместите вилку силового кабеля блока питания в электрическую розетку.</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult ">Индикатор на корпусе блока питания начнет светиться красным
+                    цветом.</stepresult>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Дождитесь, когда индикатор на корпусе блока питания начнет светиться зеленым
+                    цветом.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Извлеките вилку силового кабеля блока питания из электрической розетки. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Извлеките штекер блока питания из силового разъема.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Поместите защитную заглушку в силовой разъем.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_7_ssol1" topicrefclass="- map/topicref " nd:nd-id="concept_hy5_3sn_qcb3" oid="concept_hy5_3sn_qcb3" specializations="@props/deliveryTarget" xml:lang="ru">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Мойка электромобиля</ph></title>
+    <prolog class="- topic/prolog "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq ">
+            <note class="- topic/note " type="danger">
+                <p class="- topic/p ">Категорически запрещается производить мойку электромобиля, системы которого
+                    находятся под напряжением. Мойку электромобиля допускается производить только в
+                    полностью обесточенном состоянии. </p>
+            </note>
+            <note class="- topic/note " type="important">
+    <p class="- topic/p ">Электромобиль — современный технически сложный подвижной электромеханический прибор. Перед
+     обслуживанием электромобиля ознакомьтесь с разделом «Безопасность».</p>
+   </note>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">В случае загрязнения корпуса электромобиля посторонними веществами следует произвести
+                его мойку с целью его очистки от посторонних веществ.</p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Для того чтобы произвести мойку электромобиля:</b></p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Запаркуйте электромобиль в рабочей зоне моечного павильона.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Полностью поднимите стекла всех дверей электромобиля.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Дождитесь полной остановки электродвигателя. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Обесточьте все системы электромобиля механическим тумблером.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Плотно закройте все двери электромобиля.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Дождитесь завершения процесса мойки корпуса электромобиля.</cmd>
+            </step>
+        </steps>
+
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d164e144" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Рекомендации к освоению</ph></title><task class="- topic/topic task/task " id="unique_6_ssol2" topicrefclass="- map/topicref " nd:nd-id="task_yxn_yp4_qcb" oid="task_yxn_yp4_qcb" specializations="@props/deliveryTarget" xml:lang="ru">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Зарядка аккумулятора</ph></title>
+    <prolog class="- topic/prolog "/>
+    <taskbody class="- topic/body task/taskbody ">
+
+        <prereq class="- topic/section task/prereq ">
+            <note class="- topic/note " type="important">
+    <p class="- topic/p ">Электромобиль — современный технически сложный подвижной электромеханический прибор. Перед
+     обслуживанием электромобиля ознакомьтесь с разделом «Безопасность».</p>
+   </note>
+            <note class="- topic/note " product="Сарагоса" type="attention">
+                <p class="- topic/p ">Малые габариты электромобиля не позволяют разместить блок питания в салоне во
+                    время зарядки аккумулятора.</p>
+            </note>
+            <note class="- topic/note " product="Орландина" type="tip">
+                <p class="- topic/p ">Габариты электромобиля позволяют разместить блок питания в салоне во время
+                    зарядки аккумулятора.</p>
+            </note>
+        </prereq>
+
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">На необходимость зарядки аккумулятора электромобиля указывает низкий (менее 20%)
+                уровень заряда, отображаемый индикатором на приборной панели электромобиля.</p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Для того чтобы произвести зарядку аккумулятора:</b></p>
+        </context>
+        
+        <steps class="- topic/ol task/steps ">            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Извлеките защитную заглушку из силового разъема на корпусе электромобиля.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Поместите штекер блока питания электромобиля в силовой разъем.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig "><image class="- topic/image " href="file:/C:/Users/vadim/Desktop/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/charging.jpg" placement="inline" width="7cm"/></fig>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Поместите вилку силового кабеля блока питания в электрическую розетку.</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult ">Индикатор на корпусе блока питания начнет светиться красным
+                    цветом.</stepresult>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Дождитесь, когда индикатор на корпусе блока питания начнет светиться зеленым
+                    цветом.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Извлеките вилку силового кабеля блока питания из электрической розетки. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Извлеките штекер блока питания из силового разъема.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Поместите защитную заглушку в силовой разъем.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_7_ssol2" topicrefclass="- map/topicref " nd:nd-id="concept_hy5_3sn_qcb3" oid="concept_hy5_3sn_qcb3" specializations="@props/deliveryTarget" xml:lang="ru">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Мойка электромобиля</ph></title>
+    <prolog class="- topic/prolog "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq ">
+            <note class="- topic/note " type="danger">
+                <p class="- topic/p ">Категорически запрещается производить мойку электромобиля, системы которого
+                    находятся под напряжением. Мойку электромобиля допускается производить только в
+                    полностью обесточенном состоянии. </p>
+            </note>
+            <note class="- topic/note " type="important">
+    <p class="- topic/p ">Электромобиль — современный технически сложный подвижной электромеханический прибор. Перед
+     обслуживанием электромобиля ознакомьтесь с разделом «Безопасность».</p>
+   </note>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">В случае загрязнения корпуса электромобиля посторонними веществами следует произвести
+                его мойку с целью его очистки от посторонних веществ.</p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Для того чтобы произвести мойку электромобиля:</b></p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Запаркуйте электромобиль в рабочей зоне моечного павильона.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Полностью поднимите стекла всех дверей электромобиля.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Дождитесь полной остановки электродвигателя. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Обесточьте все системы электромобиля механическим тумблером.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Плотно закройте все двери электромобиля.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Дождитесь завершения процесса мойки корпуса электромобиля.</cmd>
+            </step>
+        </steps>
+
+    </taskbody>
+</task></topic></map>

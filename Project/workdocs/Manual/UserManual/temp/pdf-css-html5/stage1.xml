@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="modSaragosaManual" specializations="@props/deliveryTarget" xml:lang="ru" xtrc="map:1;3:43" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+
+    <title class="- topic/title " xtrc="title:1;5:12" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap">«Центр обновлений» «<keyword class="- topic/keyword " keyref="prodName" xtrc="keyword:1;5:61" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap">2ГИС</keyword> <keyword class="- topic/keyword " keyref="modName" xtrc="keyword:2;5:94" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"/>». Руководство пользователя</title>
+
+    
+    
+
+    <topichead class="+ map/topicref mapgroup-d/topichead " id="d140e19" navtitle="Общие сведения" xtrc="topichead:1;11:42" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"><topicref class="- map/topicref " first_topic_id="#unique_1" href="#unique_1" id="unique_1" navtitle="Назначение" ohref="Common/topics/overview.dita" type="concept" xtrc="topicref:1;12:77" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="overview"><resourceid appid="overview" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Назначение электромобиля</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Назначение электромобиля</linktext></topicmeta></topicref><topicref class="- map/topicref " first_topic_id="#unique_2" href="#unique_2" id="unique_2" navtitle="Общий вид" ohref="Common/topics/generalView.dita" type="concept" xtrc="topicref:2;13:79" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="concept_ly3_zdn_qcb"><resourceid appid="concept_ly3_zdn_qcb" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Общий вид электромобиля</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Общий вид электромобиля</linktext></topicmeta></topicref><topicref class="- map/topicref " first_topic_id="#unique_3" href="#unique_3" id="unique_3" navtitle="Технические характеристики" ohref="Common/topics/techParams.dita" type="reference" xtrc="topicref:3;14:95" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="reference_p4b_3gn_qcb"><resourceid appid="reference_p4b_3gn_qcb" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Технические характеристики</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Технические характеристики</linktext></topicmeta></topicref></topichead>
+
+    <topichead class="+ map/topicref mapgroup-d/topichead " id="d140e45" navtitle="Безопасность" xtrc="topichead:2;17:40" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"><topicref class="- map/topicref " first_topic_id="#unique_4" href="#unique_4" id="unique_4" ohref="Common/topics/safetyCharging.dita" type="concept" xtrc="topicref:4;18:61" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="concept_hy5_3sn_qcb"><resourceid appid="concept_hy5_3sn_qcb" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Меры безопасности при зарядке аккумулятора</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Меры безопасности при зарядке аккумулятора</linktext></topicmeta></topicref><topicref class="- map/topicref " first_topic_id="#unique_5" href="#unique_5" id="unique_5" ohref="Common/topics/safetyDriving.dita" type="concept" xtrc="topicref:5;19:60" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="concept_hy5_3sn_qcb"><resourceid appid="concept_hy5_3sn_qcb" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Меры безопасности при вождении</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Меры безопасности при вождении</linktext></topicmeta></topicref></topichead>
+
+    <topichead class="+ map/topicref mapgroup-d/topichead " id="d140e63" navtitle="Использование" xtrc="topichead:3;22:41" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"><topicref class="- map/topicref " href="Saragosa/topics/driving.dita" id="" ohref="Saragosa/topics/driving.dita" xtrc="topicref:6;23:56" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"><topicmeta class="- map/topicmeta " data-topic-id=""><resourceid appid="" class="- topic/resourceid " oxy-source="topic"/></topicmeta></topicref><topicref class="- map/topicref " href="Saragosa/topics/parking.dita" id="" ohref="Saragosa/topics/parking.dita" xtrc="topicref:7;24:56" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"><topicmeta class="- map/topicmeta " data-topic-id=""><resourceid appid="" class="- topic/resourceid " oxy-source="topic"/></topicmeta></topicref></topichead>
+
+    <topichead class="+ map/topicref mapgroup-d/topichead " id="d140e71" navtitle="Обслуживание" xtrc="topichead:4;27:40" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"><topicref class="- map/topicref " first_topic_id="#unique_6" href="#unique_6" id="unique_6" ohref="Common/topics/charging.dita" type="task" xtrc="topicref:8;28:55" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="task_yxn_yp4_qcb"><resourceid appid="task_yxn_yp4_qcb" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Зарядка аккумулятора</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Зарядка аккумулятора</linktext></topicmeta></topicref><topicref class="- map/topicref " first_topic_id="#unique_7" href="#unique_7" id="unique_7" ohref="Common/topics/cleaning.dita" type="task" xtrc="topicref:9;29:55" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/saragosa-manual.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="concept_hy5_3sn_qcb3"><resourceid appid="concept_hy5_3sn_qcb3" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Мойка электромобиля</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Мойка электромобиля</linktext></topicmeta></topicref></topichead>
+
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d140e19"><title class="- topic/title ">Общие сведения</title><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_1" oid="overview" specializations="@props/deliveryTarget" xml:lang="ru" xtrc="concept:1;3:38" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/overview.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/overview.dita">Назначение электромобиля</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/overview.dita"/>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/overview.dita">
+        <section class="- topic/section " conkeyref="modInfo/modOverview" xtrc="section:1;7:51" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/overview.dita"/>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_2" oid="concept_ly3_zdn_qcb" specializations="@props/deliveryTarget" xml:lang="ru" xtrc="concept:1;3:49" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/generalView.dita">
+ <title class="- topic/title " xtrc="title:1;4:9" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/generalView.dita">Общий вид электромобиля</title>
+ <prolog class="- topic/prolog " xtrc="prolog:1;5:10" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/generalView.dita"/>
+ <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:11" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/generalView.dita">
+  <p class="- topic/p " props="manual" xtrc="p:1;7:21" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/generalView.dita">Общий вид электромобиля «<keyword class="- topic/keyword " keyref="prodName" xtrc="keyword:1;7:74" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/generalView.dita">2ГИС</keyword>
+   <keyword class="- topic/keyword " keyref="modName" xtrc="keyword:2;8:31" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/generalView.dita"/>» показан на рисунке. </p>
+  <fig class="- topic/fig " xtrc="fig:1;9:8" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/generalView.dita">
+   <image class="- topic/image " conkeyref="modInfo/imgGeneralView" placement="inline" xtrc="image:1;10:47" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/generalView.dita"/>
+  </fig>
+ </conbody>
+</concept><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_3" oid="reference_p4b_3gn_qcb" specializations="@props/deliveryTarget" xml:lang="ru" xtrc="reference:1;3:53" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita">
+  <title class="- topic/title " xtrc="title:1;4:10" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita">Технические характеристики</title>
+  <prolog class="- topic/prolog " xtrc="prolog:1;5:11" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita"/>
+  <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;6:12" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita">
+    <section class="- topic/section " xtrc="section:1;7:14" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita">
+      <p class="- topic/p " props="manual" xtrc="p:1;8:25" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita">Технические характеристики модели «<keyword class="- topic/keyword " keyref="prodName" xtrc="keyword:1;8:88" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita">2ГИС</keyword>
+        <keyword class="- topic/keyword " keyref="modName" xtrc="keyword:2;9:36" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita"/>» приведены в таблице.</p>
+      <table class="- topic/table " conkeyref="modInfo/tabTechparams" xtrc="table:1;10:48" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita">
+        <tgroup class="- topic/tgroup " cols="1" xtrc="tgroup:1;11:26" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita">
+          <colspec class="- topic/colspec " colname="col1" colnum="1"/><tbody class="- topic/tbody " xtrc="tbody:1;12:18" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita">
+            <row class="- topic/row " xtrc="row:1;13:18" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita">
+              <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;14:23" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita"/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <note class="- topic/note " props="manual" type="important" xtrc="note:1;19:45" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita">
+        <p class="- topic/p " xtrc="p:2;20:12" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita">Соответствие фактических значений технических характеристик электромобиля приведенной
+          таблице гарантированно только при обслуживании в авторизованных сервисных центрах. </p>
+      </note>
+      <sectiondiv class="- topic/sectiondiv " props="datasheet" xtrc="sectiondiv:1;23:37" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita">
+        <p class="- topic/p " xtrc="p:3;24:12" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/techParams.dita">Наши инженеры трудятся, не покладая рук, чтобы добиться наилучших характеристик наших
+          электромобилей.</p>        
+      </sectiondiv>
+    </section>
+  </refbody>
+</reference></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d140e45"><title class="- topic/title ">Безопасность</title><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_4" oid="concept_hy5_3sn_qcb" specializations="@props/deliveryTarget" xml:lang="ru" xtrc="concept:1;3:49" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyCharging.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyCharging.dita">Меры безопасности при зарядке аккумулятора</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyCharging.dita"/>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyCharging.dita">
+
+        <note class="- topic/note " type="danger" xtrc="note:1;8:29" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyCharging.dita">
+            <p class="- topic/p " xtrc="p:1;9:16" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyCharging.dita">Во избежание поражения электрическим током категорически запрещается осуществлять
+                зарядку электромобиль на открытом воздухе во время дождя или мокрого снега. </p>
+        </note>
+        <note class="- topic/note " type="danger" xtrc="note:2;12:30" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyCharging.dita">
+            <p class="- topic/p " xtrc="p:2;13:16" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyCharging.dita">Во избежание возгорания электромобиля категорически запрещается осуществлять зарядку
+                аккумулятора электромобиля от неисправного блока питания, в том числе, при наличии
+                повреждений изоляции силовых кабелей. Оберегайте силовые кабели от грызунов и
+                зайцеобразных.</p>
+        </note>
+        <note class="- topic/note " type="danger" xtrc="note:3;18:29" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyCharging.dita">
+            <p class="- topic/p " xtrc="p:3;19:16" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyCharging.dita">Во избежание возникновения пожара или повреждения электропроводки осуществляйте
+                зарядку аккумулятора электромобиля только от силовой электрической сети, снабженной
+                исправными устройствами защиты или автоматическими выключателями.</p>
+        </note>
+
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_5" oid="concept_hy5_3sn_qcb" specializations="@props/deliveryTarget" xml:lang="ru" xtrc="concept:1;3:49" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyDriving.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyDriving.dita">Меры безопасности при вождении</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyDriving.dita"/>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyDriving.dita">
+        <note class="- topic/note " type="danger" xtrc="note:1;7:29" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyDriving.dita">
+            <p class="- topic/p " xtrc="p:1;8:16" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyDriving.dita">При вождении электромобиля во время грозы следует избегать перемещения по открытым
+                пространствам, лишенным древесной растительности или многоэтажной застройки. </p>
+        </note>
+        <note class="- topic/note " type="danger" xtrc="note:2;11:29" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyDriving.dita">
+            <p class="- topic/p " xtrc="p:2;12:16" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/safetyDriving.dita">Категорически не рекомендуется заезжать на электромобиле на территорию
+                автозаправочных станций, торгующих легковоспламеняющимися жидкостями. </p>
+        </note>
+    </conbody>
+</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d140e63"><title class="- topic/title ">Использование</title></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d140e71"><title class="- topic/title ">Обслуживание</title><task class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="unique_6" oid="task_yxn_yp4_qcb" specializations="@props/deliveryTarget" xml:lang="ru" xtrc="task:1;3:43" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">Зарядка аккумулятора</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita"/>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">
+
+        <prereq class="- topic/section task/prereq " xtrc="prereq:1;8:17" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">
+            <note class="- topic/note " type="important" xtrc="note:2;16:46" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/_snippets.dita">
+    <p class="- topic/p " xtrc="p:2;17:8" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/_snippets.dita">Электромобиль — современный технически сложный подвижной электромеханический прибор. Перед
+     обслуживанием электромобиля ознакомьтесь с разделом «Безопасность».</p>
+   </note>
+            <note class="- topic/note " product="Сарагоса" type="attention" xtrc="note:2;10:55" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">
+                <p class="- topic/p " xtrc="p:1;11:20" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">Малые габариты электромобиля не позволяют разместить блок питания в салоне во
+                    время зарядки аккумулятора.</p>
+            </note>
+            <note class="- topic/note " product="Орландина" type="tip" xtrc="note:3;14:50" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">
+                <p class="- topic/p " xtrc="p:2;15:20" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">Габариты электромобиля позволяют разместить блок питания в салоне во время
+                    зарядки аккумулятора.</p>
+            </note>
+        </prereq>
+
+        <context class="- topic/section task/context " xtrc="context:1;20:18" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">
+            <p class="- topic/p " xtrc="p:3;21:16" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">На необходимость зарядки аккумулятора электромобиля указывает низкий (менее 20%)
+                уровень заряда, отображаемый индикатором на приборной панели электромобиля.</p>
+            <p class="- topic/p " xtrc="p:4;23:16" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;23:19" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">Для того чтобы произвести зарядку аккумулятора:</b></p>
+        </context>
+        
+        <steps class="- topic/ol task/steps " xtrc="steps:1;26:16" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">            
+            <step class="- topic/li task/step " xtrc="step:1;27:19" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;28:22" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">Извлеките защитную заглушку из силового разъема на корпусе электромобиля.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;30:19" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;31:22" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">Поместите штекер блока питания электромобиля в силовой разъем.</cmd>
+                <info class="- topic/itemgroup task/info " xtrc="info:1;32:23" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">
+                    <fig class="- topic/fig " xtrc="fig:1;33:26" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">
+                        <image class="- topic/image " conkeyref="modInfo/imgCharging" placement="inline" xtrc="image:1;34:65" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita"/>
+                    </fig>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;38:19" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;39:22" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">Поместите вилку силового кабеля блока питания в электрическую розетку.</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult " xtrc="stepresult:1;40:29" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">Индикатор на корпусе блока питания начнет светиться красным
+                    цветом.</stepresult>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;43:19" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;44:22" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">Дождитесь, когда индикатор на корпусе блока питания начнет светиться зеленым
+                    цветом.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;47:19" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;48:22" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">Извлеките вилку силового кабеля блока питания из электрической розетки. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:6;50:19" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;51:22" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">Извлеките штекер блока питания из силового разъема.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:7;53:19" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:7;54:22" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita">Поместите защитную заглушку в силовой разъем.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="unique_7" oid="concept_hy5_3sn_qcb3" specializations="@props/deliveryTarget" xml:lang="ru" xtrc="task:1;3:47" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">Мойка электромобиля</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita"/>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">
+        <prereq class="- topic/section task/prereq " xtrc="prereq:1;7:17" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">
+            <note class="- topic/note " type="danger" xtrc="note:1;8:33" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">
+                <p class="- topic/p " xtrc="p:1;9:20" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">Категорически запрещается производить мойку электромобиля, системы которого
+                    находятся под напряжением. Мойку электромобиля допускается производить только в
+                    полностью обесточенном состоянии. </p>
+            </note>
+            <note class="- topic/note " type="important" xtrc="note:2;16:46" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/_snippets.dita">
+    <p class="- topic/p " xtrc="p:2;17:8" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/_snippets.dita">Электромобиль — современный технически сложный подвижной электромеханический прибор. Перед
+     обслуживанием электромобиля ознакомьтесь с разделом «Безопасность».</p>
+   </note>
+        </prereq>
+        <context class="- topic/section task/context " xtrc="context:1;15:18" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">
+            <p class="- topic/p " xtrc="p:2;16:16" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">В случае загрязнения корпуса электромобиля посторонними веществами следует произвести
+                его мойку с целью его очистки от посторонних веществ.</p>
+            <p class="- topic/p " xtrc="p:3;18:16" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;18:19" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">Для того чтобы произвести мойку электромобиля:</b></p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;20:16" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">
+            <step class="- topic/li task/step " xtrc="step:1;21:19" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;22:22" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">Запаркуйте электромобиль в рабочей зоне моечного павильона.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;24:19" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;25:22" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">Полностью поднимите стекла всех дверей электромобиля.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;27:19" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;28:22" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">Дождитесь полной остановки электродвигателя. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;30:19" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;31:22" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">Обесточьте все системы электромобиля механическим тумблером.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;33:19" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;34:22" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">Плотно закройте все двери электромобиля.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:6;36:19" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;37:22" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/cleaning.dita">Дождитесь завершения процесса мойки корпуса электромобиля.</cmd>
+            </step>
+        </steps>
+
+    </taskbody>
+</task></topic><opentopic-index:index.groups/></map>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="modManual" xml:lang="ru">
+
+    <title>Электромобиль «<keyword keyref="prodName"/>&#160;<keyword keyref="modName"/>».
+        Руководство по эксплуатации</title>
+
+    <mapref href="Common/prodkeys.ditamap"/>
+    <mapref href="Model/modkeys.ditamap"/>
+
+
+    <topichead navtitle="Общие сведения">
+        <topicref navtitle="Назначение" href="Common/topics/overview.dita"/>
+        <topicref navtitle="Общий вид" href="Common/topics/generalView.dita"/>
+        <topicref navtitle="Технические характеристики" href="Common/topics/techParams.dita"/>
+    </topichead>
+
+    <topichead navtitle="Безопасность">
+        <topicref href="Common/topics/safetyCharging.dita"/>
+        <topicref href="Common/topics/safetyDriving.dita"/>
+    </topichead>
+
+    <topichead navtitle="Использование">
+        <topicref href="Model/topics/driving.dita"/>
+        <topicref href="Model/topics/parking.dita"/>
+    </topichead>
+
+    <topichead navtitle="Обслуживание">
+        <topicref href="Common/topics/charging.dita"/>
+        <topicref href="Common/topics/cleaning.dita"/>
+    </topichead>
+
+</map>

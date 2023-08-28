@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="prodElectron">
+    <title>ПК-версия «2ГИС»</title>
+    <keydef keys="companyName">
+        <topicmeta>
+            <keywords>
+                <keyword>ООО «ДубльГИС»</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="prodName">
+        <topicmeta>
+            <keywords>
+                <keyword>ПК-версия «2ГИС»</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+</map>

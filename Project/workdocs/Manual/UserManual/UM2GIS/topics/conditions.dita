@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="conditions">
+    <title>Состав и содержание дистрибутивного пакета</title>
+    
+    <body>
+        <p>Дистрибутивный пакет состоит из следующих файлов: </p>
+        <p>1. Оболочка в которую входят программы:</p>
+        <p>1.1. Программа <keyword keyref="prodName"/>;</p>
+        <p>1.2. Программа <keyword keyref="modName"/>.</p>
+        <p>2. База данных одного или нескольких городов.</p>
+    </body>
+</topic>

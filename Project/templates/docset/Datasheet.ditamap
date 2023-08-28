@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="modSaragosaDatasheet" xml:lang="ru">
+    <title>Электромобиль «<keyword keyref="prodName"/>&#160;<keyword keyref="modName"/>»</title>
+
+    <mapref href="Common/prodkeys.ditamap"/>
+    <mapref href="Model/modkeys.ditamap"/>
+
+    <topicref navtitle="Назначение электромобиля" href="Common/topics/overview.dita"/>
+    <topicref navtitle="Общий вид электромобиля" href="Common/topics/generalView.dita"/>
+    <topicref navtitle="Технические характеристики" href="Common/topics/techParams.dita"/>
+
+</map>

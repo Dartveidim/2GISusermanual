@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="concept_hy5_3sn_qcb3" xml:lang="ru">
+    <title>Мойка посуды</title>
+    <prolog></prolog>
+    <taskbody>
+        <prereq>            
+            <note conref="../../Common/topics/_snippets.dita#commonText/noteSafetyMnt"/>
+        </prereq>
+        <context>            
+            <p><b>Для того чтобы вымыть посуду:</b></p>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+            
+        </steps>
+
+    </taskbody>
+</task>

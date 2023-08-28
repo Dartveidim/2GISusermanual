@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\user\Desktop\Project\workdocs\Manual\UserManual\temp\pdf-css-html5\Common\topics?><?workdir-uri file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/temp/pdf-css-html5/Common/topics/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_yxn_yp4_qcb" xml:lang="ru" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="task:1;3:43" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="title:1;4:12">Зарядка аккумулятора</title>
+    <prolog class="- topic/prolog " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="prolog:1;5:13"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="taskbody:1;6:15">
+
+        <prereq class="- topic/section task/prereq " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="prereq:1;8:17">
+            <note class="- topic/note " type="important" xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/_snippets.dita" xtrc="note:2;16:46">
+    <p class="- topic/p " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/_snippets.dita" xtrc="p:2;17:8">Электромобиль — современный технически сложный подвижной электромеханический прибор. Перед
+     обслуживанием электромобиля ознакомьтесь с разделом «Безопасность».</p>
+   </note>
+            <note type="attention" product="Сарагоса" class="- topic/note " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="note:2;10:55">
+                <p class="- topic/p " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="p:1;11:20">Малые габариты электромобиля не позволяют разместить блок питания в салоне во
+                    время зарядки аккумулятора.</p>
+            </note>
+            <note type="tip" product="Орландина" class="- topic/note " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="note:3;14:50">
+                <p class="- topic/p " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="p:2;15:20">Габариты электромобиля позволяют разместить блок питания в салоне во время
+                    зарядки аккумулятора.</p>
+            </note>
+        </prereq>
+
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="context:1;20:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="p:3;21:16">На необходимость зарядки аккумулятора электромобиля указывает низкий (менее 20%)
+                уровень заряда, отображаемый индикатором на приборной панели электромобиля.</p>
+            <p class="- topic/p " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="p:4;23:16"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="b:1;23:19">Для того чтобы произвести зарядку аккумулятора:</b></p>
+        </context>
+        
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="steps:1;26:16">            
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="step:1;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="cmd:1;28:22">Извлеките защитную заглушку из силового разъема на корпусе электромобиля.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="step:2;30:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="cmd:2;31:22">Поместите штекер блока питания электромобиля в силовой разъем.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="info:1;32:23">
+                    <fig class="- topic/fig " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="fig:1;33:26">
+                        <image conkeyref="modInfo/imgCharging" placement="inline" class="- topic/image " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="image:1;34:65"/>
+                    </fig>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="step:3;38:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="cmd:3;39:22">Поместите вилку силового кабеля блока питания в электрическую розетку.</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="stepresult:1;40:29">Индикатор на корпусе блока питания начнет светиться красным
+                    цветом.</stepresult>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="step:4;43:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="cmd:4;44:22">Дождитесь, когда индикатор на корпусе блока питания начнет светиться зеленым
+                    цветом.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="step:5;47:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="cmd:5;48:22">Извлеките вилку силового кабеля блока питания из электрической розетки. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="step:6;50:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="cmd:6;51:22">Извлеките штекер блока питания из силового разъема.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="step:7;53:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/user/Desktop/Project/workdocs/Manual/UserManual/Common/topics/charging.dita" xtrc="cmd:7;54:22">Поместите защитную заглушку в силовой разъем.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

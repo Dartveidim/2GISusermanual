@@ -1,0 +1,1 @@
+var htmlFileInfoList = ["cshelp.html@@@Context Sensitive Help@@@...","reusables/reusable_components.html@@@Reusable Components@@@Note: Reusable note...","topics/welcome.html@@@My first topic@@@Welcome to your first DITA Project . You can add images or use reusable content: Note: Reusable note..."];

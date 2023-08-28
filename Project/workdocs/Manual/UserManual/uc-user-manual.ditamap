@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="modUpdateCenterManual" xml:lang="ru">
+
+    <title>Геоинформационная система «<keyword keyref="prodName"/>&#160;<keyword keyref="modName"/>».
+        Руководство пользователя</title>
+    <mapref href="Common/prodkeys.ditamap"/>
+    <mapref href="../../../workdocs/Manual/UserManual/UM2GIS/modkeys.ditamap"/>
+
+    <topichead navtitle="Введение">
+        <topicref navtitle="Область применения" href="../../Manual/UserManual/UM2GIS/topics/applicationarea.dita"/>
+        <topicref navtitle="Краткое описание возможностей" href="../../Manual/UserManual/UM2GIS/topics/featuresdescription.dita"/>
+        <topicref href="Common/topics/userlevel.dita"/>
+        <topicref navtitle="Перечень эксплуатационной документации" href="../../Manual/UserManual/UM2GIS/topics/operationaldocumentation.dita"/>
+    </topichead>
+    
+    <topichead navtitle="Назначение и условия применения">
+        <topicref navtitle="Виды деятельности и функции для автоматизации которых предназначено данное средство автоматизации" href="../../Manual/UserManual/UM2GIS/topics/function.dita"/>       
+        <topicref navtitle="Условия, при соблюдении которых обеспечивается применение средства автоматизации в соответствии с назначением" href="../../Manual/UserManual/Common/topics/applicationconditions.dita"/>
+    </topichead>
+
+    <topichead navtitle="Подготовка к работе">
+        <topicref navtitle="Состав и содержание дистрибутивного пакета данных" href="../../Manual/UserManual/UM2GIS/topics/conditions.dita"/>
+        <topicref navtitle="Порядок загрузки данных и программ" href="../../Manual/UserManual/UM2GIS/topics/queue.dita"/>
+        <topicref navtitle="Порядок проверки работоспособности" href="../../Manual/UserManual/UM2GIS/topics/checkqueue.dita"/>
+    </topichead>
+
+    <topichead navtitle="Описание операций">
+        <topicref navtitle="Описание всех выполняемых функций, задач, комплексов задач, процедур" href="../../Manual/UserManual/UM2GIS/topics/generalprocedure.dita"/>
+        <topicref navtitle="Описание операций технологического процесса обработки данных, необходимых для выполнения функций, комплексов задач (задач), процедур" href="../../Manual/UserManual/UM2GIS/topics/technicalkdescription.dita"/>
+    </topichead>
+
+    <topichead navtitle="Аварийные ситуации">
+        <topicref navtitle="Действия в случае несоблюдения условий выполнения технологического процесса" href="../../Manual/UserManual/UM2GIS/topics/disturbanceaction.dita"/>
+        <topicref navtitle="Действия по восстановлению программ и (или) данных" href="../../Manual/UserManual/UM2GIS/topics/recoveryaction.dita"/>
+        <topicref navtitle="Действия в случаях обнаружения несанкционированного вмешательства в данные" href="../../Manual/UserManual/UM2GIS/topics/ha%D1%81kingaction.dita"/>
+        <topicref navtitle="Действия в других аварийных ситуациях" href="../../Manual/UserManual/UM2GIS/topics/emergencyaction.dita"/>
+    </topichead>
+    
+    <topichead navtitle="Рекомендации к освоению">
+        <topicref navtitle="Рекомендации по освоению" href="../../Manual/UserManual/UM2GIS/topics/masteringrecommendation.dita"/>
+        <topicref navtitle="Рекомендации по эксплуатации" href="../../Manual/UserManual/UM2GIS/topics/operationaldocumentation.dita"/>
+    </topichead>
+
+</map>
