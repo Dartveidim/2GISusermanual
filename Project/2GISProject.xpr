@@ -150,7 +150,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>workdocs/Manual/UserManual/UM2GIS/topics/featuresdescription.dita</String>
+                                    <String>workdocs/Manual/UserManual/UM2GIS/topics/generalprocedure.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -170,7 +170,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>workdocs/Manual/UserManual/UM2GIS/topics/generalprocedure.dita</String>
+                                    <String>workdocs/Manual/UserManual/UM2GIS/topics/featuresdescription.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

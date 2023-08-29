@@ -2,11 +2,11 @@
 <?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
 <?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
 <?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
-<?xml-stylesheet type='text/css' href='file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/temp/pdf-css-html5/oxygen_dita_temp/publishing-template/oxygen-print.css'?>
-<?xml-stylesheet type='text/css' href='file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/temp/pdf-css-html5/oxygen_dita_temp/publishing-template/notes.css'?>
-<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="modUpdateCenterManual" specializations="@props/deliveryTarget" xml:lang="ru" xtrc="map:1;3:47" xtrf="file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/uc-user-manual.ditamap"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Геоинформационная система «<keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>». Руководство пользователя</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/temp/pdf-css-html5/oxygen_dita_temp/publishing-template/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/temp/pdf-css-html5/oxygen_dita_temp/publishing-template/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="modUpdateCenterManual" specializations="@props/deliveryTarget" xml:lang="ru" xtrc="map:1;3:47" xtrf="file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/uc-user-manual.ditamap"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Геоинформационная система «<keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>. Руководство пользователя</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
 
-    <title class="- topic/title ">Геоинформационная система «<keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>». Руководство пользователя</title>
+    <title class="- topic/title ">Геоинформационная система «<keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>. Руководство пользователя</title>
     
     
 
@@ -33,9 +33,11 @@
                 пользователей<p class="- topic/p ">Имеются следующии области применения программы:</p></context>
         <steps class="- topic/ol task/steps ">
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Карты и навигация:</b> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> позволяет обновлять геолокационные и
-                    картографические данные, маршруты, улицы, местоположения, данные касающиеся дорожного строительства и другие 
-                    важные данные, хкоторые используются в приложениях и сервисах навигации <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword>.</cmd>
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Карты и навигация:</b>
+                    <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> позволяет обновлять геолокационные и
+                    картографические данные, маршруты, улицы, местоположения, данные, касающиеся
+                    дорожного строительства и другие важные данные, которые используются в
+                    приложениях и сервисах навигации <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword>.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Обновление оболочки <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword>:</b>
@@ -50,10 +52,12 @@
                     отображать свою информацию на карте.</cmd>
             </step>
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Рекламные и информационные сервисы:</b> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> позволяет размещать
-                    рекламную и информационную информацию на картах <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> и 
-                    других продуктах. Это может быть в форме всплывающих окон, баннеров, объявлений, акций и 
-                    прочих информационных блоков, помогающих пользователям узнавать о предложениях и событиях.</cmd>
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Рекламные и информационные сервисы:</b>
+                    <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> позволяет размещать рекламную и справочную
+                    информацию на картах <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> и других продуктах. Это может
+                    быть в форме всплывающих окон, баннеров, объявлений, акций и прочих
+                    информационных блоков, помогающих пользователям узнавать о предложениях и
+                    событиях.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Веб-сайты и мобильные приложения:</b> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> также может
@@ -62,10 +66,11 @@
                     актуальные данные и удобно пользоваться функционалом приложений.</cmd>
             </step>
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Туризм и путешествия:</b> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> также
-                    полезен для туристов и путешественников. Он позволяет получать последние
-                    обновления карты для любго региона, обновлять информацию о
-                    достопримечательностях, отелях, ресторанах и других интересующих местах.</cmd>
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Туризм и путешествия:</b>
+                    <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> также полезен для туристов и путешественников. Он
+                    позволяет получать последние обновления карты для любого региона, обновлять
+                    информацию о достопримечательностях, отелях, ресторанах и других интересующих
+                    местах.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Управление геоданными:</b> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> программы <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> 
@@ -117,20 +122,23 @@
 </concept><topic class="- topic/topic " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="userlevel" oid="userlevel" specializations="@props/deliveryTarget" xml:lang="ru">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Уровень подготовки пользователей</ph></title>
     
-    <body class="- topic/body "><p class="- topic/p ">Для работы с программным обеспечением операторы ПО должны обладать базовыми навыками работы на ПЭВМ, взаимодействия с графическим пользовательским интерфейсом ОС Windows, Linux,  (клавиатура, манипулятор типа «мышь», управление окнами, в т.ч. диалоговыми, и приложениями, ввод и редактирование информации, файловая система). Особые требования к уровню подготовки пользователей для работы с программным обеспечением отсутствуют.</p></body>
+    <body class="- topic/body "><p class="- topic/p ">Для работы с программным обеспечением операторы ПО должны обладать базовыми навыками работы на
+            ПЭВМ, взаимодействия с графическим пользовательским интерфейсом ОС Windows, Linux, MacOS
+            (клавиатура, манипулятор типа «мышь», управление окнами, в т.ч. диалоговыми, и
+            приложениями, ввод и редактирование информации, файловая система). Особые требования к
+            уровню подготовки пользователей для работы с программным обеспечением отсутствуют.</p></body>
     
 </topic><task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="operationaldocumentation" oid="operationaldocumentation" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Рекомендации по эксплуатации.</ph></title>
     
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
-            <p class="- topic/p ">Для программы центр обновления имется следующие рекомендации по
-                эксплуатации:</p></context>
+            <p class="- topic/p ">Для программы <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> имеется следующие рекомендации по эксплуатации:</p></context>
         <steps class="- topic/ol task/steps ">
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Регулярные обновления программы: </b>Убедитесь, что программа всегда
                     обновлена до последней версии. Это позволит получить доступ к новым функциям,
-                    улучшенной производительности и актуальным геолокационным данным.. Следите за
+                    улучшенной производительности и актуальным геолокационным данным. Следите за
                     новыми обновлениями и устанавливайте их как можно раньше.</cmd>
             </step>
             <step class="- topic/li task/step ">
@@ -168,7 +176,7 @@
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Защита данных: </b>Обеспечьте безопасность ваших данных при работе с
                     программой. Используйте надежные пароли, обновляйте антивирусное программное
-                    обеспечение и следите за безопасностью вашего компьютера..</cmd>
+                    обеспечение и следите за безопасностью вашего компьютера.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Мониторинг сети:</b> Обратите внимание на доступность сети во время работы
@@ -191,13 +199,13 @@
         <context class="- topic/section task/context ">Функции программы помогают обеспечить бесперебойную работу программы и вовремя
             обновлять ее функциональность, обеспечивая пользователям самую актуальную информацию о
             геолокационных данных.<p class="- topic/p ">Виды деятельности и функции для автоматизации которых
-                преднгазначена программа:</p></context>
+                предназначена программа:</p></context>
         
         
         <steps class="- topic/ol task/steps ">
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Обновление оболочки <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword></b> позволяет выполнять
-                    автоматическое обновление интерфейса программыо без необходимости ручного
+                    автоматическое обновление интерфейса программы без необходимости ручного
                     вмешательства. Это позволяет получать последние версии программы с улучшенными
                     функциональными возможностями и исправленными ошибками.</cmd>
             </step>
@@ -210,8 +218,9 @@
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Уведомления об обновлениях: </b><keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> предоставляет
                     функцию отправки уведомлений пользователям о наличии новых версий программы или
-                    геолокационных данных. Это позволяет пользователям быть в курсе последниений и
-                    обновлений и скачивать их по мере необходимости в ручном режиме.</cmd>
+                    геолокационных данных. Это позволяет пользователям быть в курсе последних
+                    изменений и обновлений и скачивать их по мере необходимости в ручном
+                    режиме.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Управление настройками обновлений:</b> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>
@@ -230,10 +239,11 @@
             <p class="- topic/p ">Автоматизация программы обеспечивается при следующих условиях.:</p></context>
         <steps class="- topic/ol task/steps ">
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Вид ЭВМ и конфигурация технических средств:</b> Автоматизация программы 
-                    <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> может быть обеспечена на компьютере или сервере 
-                    соответствующей конфигурации и с требуемыми характеристиками, такими как 
-                    процессорная мощность, объем оперативной памяти и свободное место на жестком диске..</cmd>
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Вид ЭВМ и конфигурация технических средств:</b> Автоматизация программы
+                        <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> может быть обеспечена на компьютере или сервере
+                    соответствующей конфигурации и с требуемыми характеристиками, такими как
+                    процессорная мощность, объем оперативной памяти и свободное место на жестком
+                    диске.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Операционная среда и общесистемные средства: </b>Для обеспечения
@@ -243,7 +253,7 @@
                     используются в комплексе с программой. </cmd>
             </step>
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Входная информация и носители данных:</b>Для автоматизации программа
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Входная информация и носители данных: </b>Для автоматизации программа
                     использует входные данные, которые могут быть предоставлены путем загрузки с
                     определенных носителей данных или через сеть Интернет с сервера программы (по
                     умолчанию) или альтернативных серверов.</cmd>
@@ -260,7 +270,7 @@
     
     <body class="- topic/body ">
         <p class="- topic/p ">Дистрибутивный пакет состоит из следующих файлов: </p>
-        <p class="- topic/p ">1. Оболочка в которую входят программы:</p>
+        <p class="- topic/p ">1. Оболочка, в которую входят программы:</p>
         <p class="- topic/p ">1.1. Программа <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword>;</p>
         <p class="- topic/p ">1.2. Программа <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>.</p>
         <p class="- topic/p ">2. База данных одного или нескольких городов.</p>
@@ -274,7 +284,7 @@
         </context>
         <steps class="- topic/ol task/steps ">
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Скачайте оболочку <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> (32 МБ, .msi).</cmd>
+                <cmd class="- topic/ph task/cmd ">Скачайте <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> (32 МБ, .msi).</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Левой кнопкой мыши дважды кликните по скачанному файлу — запустится процесс установки. Просто следуйте подсказкам, и оболочка <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> будет установлена.</cmd>
@@ -283,10 +293,10 @@
                 <cmd class="- topic/ph task/cmd ">После установки кликните по ярлычку 2ГИС на Рабочем столе или в меню «Пуск».</cmd>
             </step>
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">В появившемся окне Центра обновлений отметьте галочкой те города, которые вам необходимо установить, и нажмите кнопку «Установить».</cmd>
+                <cmd class="- topic/ph task/cmd ">В появившемся окне <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> отметьте галочкой те города, которые вам необходимо установить, и нажмите кнопку «Установить».</cmd>
             </step>
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">После установки выбранных городов закройте окно Центра обновлений — 2ГИС откроется автоматически.</cmd>
+                <cmd class="- topic/ph task/cmd ">После установки выбранных городов закройте окно <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> откроется автоматически.</cmd>
             </step>
         </steps>
         
@@ -296,27 +306,27 @@
     
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">Если в процессе проверки вы столкнетесь с проблемами или обнаружите неполадки,
-            рекомендуется обратиться в службу поддержки <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> для получения дальнейшей
-                    помощи.
-    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Проверка работосособности:</b></p></context>
+            рекомендуется обратиться в службу поддержки <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> для получения
+            дальнейшей помощи. <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Проверка работоспособности:</b></p></context>
         <steps class="- topic/ol task/steps ">
            
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Проверьте наличие последней версии программы: </b>Убедитесь, что у вас
-                    установняя версия программы <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword>, которая поддерживает
-                    центр обновления. Если у вас установлена устаревшая версия, обновите программу
-                    до последней версии.</cmd>
+                    установлена последняя версия программы <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword>, которая
+                    поддерживает <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>. Если у вас установлена устаревшая версия,
+                    обновите программу до последней версии.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Проверьте настройки обновлений:</b> Убедитесь, что в настройках программы
-                    <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> включена функция автоматического обновления. Это позволит центру обновления
+                    <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> включена функция автоматического обновления. Это позволит 
+                    программе <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>
                     автоматически проверять наличие новых версий программы и геолокационных
                     данных.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Проверьте доступ к интернету:</b> Убедитесь, что у вас имеется подключение к
-                    интернету. Длля спользования <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> необходим доступ к
-                    интернету для загрузки новых версий программы и геолокационных данных..</cmd>
+                    интернету. Длля использования <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> необходим доступ к
+                    интернету для загрузки новых версий программы и геолокационных данных.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Запустите проверку наличия обновлений:</b> В программе <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> 
@@ -342,12 +352,13 @@
     
     <conbody class="- topic/body  concept/conbody ">
         <section class="- topic/section " id="unique_10_Connect_42_modOverview" nd:nd-id="modOverview">
-            <p class="- topic/p ">Сервер обновлений «<keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>» разработана
-                компанией «<keyword class="- topic/keyword " keyref="companyName">ООО «ДубльГИС»</keyword>» и которая позволяет распространять пакеты обновлений между пользователями локальной сети..</p>
+            <p class="- topic/p "><keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> программы <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> разработана
+                компанией <keyword class="- topic/keyword " keyref="companyName">ООО «ДубльГИС»</keyword> и позволяет распространять пакеты обновлений между 
+                пользователями локальной сети.</p>
         </section>
         <section class="- topic/section ">
             <title class="- topic/title ">Схема работы центра обновления</title>
-            <fig class="- topic/fig "><image align="center" class="- topic/image " dita-ot:image-width="284" dita-ot:image-height="325" href="file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/scheme.png" id="unique_10_Connect_42_imgGeneralView" nd:nd-id="imgGeneralView" placement="inline"/></fig>
+            <fig class="- topic/fig "><image align="center" class="- topic/image " dita-ot:image-width="284" dita-ot:image-height="325" href="file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/scheme.png" id="unique_10_Connect_42_imgGeneralView" nd:nd-id="imgGeneralView" placement="inline"/></fig>
         </section>
         <section class="- topic/section ">
             <title class="- topic/title ">Установка и запуск</title>
@@ -366,32 +377,32 @@
                                 2ГИС» отмечена как установленная, а также «Файлы данных городов», из
                                 которых вам предлагается выбрать требуемые к отображению в
                                 приложении города. </note></p>
-                        <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/5.png" id="unique_10_Connect_42_gearicon" nd:nd-id="gearicon" placement="inline" width="14cm"/></fig>
+                        <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/5.png" id="unique_10_Connect_42_gearicon" nd:nd-id="gearicon" placement="inline" width="14cm"/></fig>
                     </li>
                     
                     <li class="- topic/li ">
                         <p class="- topic/p ">В появившемся окне «Центра обновлений» отметьте галочкой те города,
                             которые вам необходимо установить, и нажмите кнопку «Установить»</p>
-                        <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/4.png" id="unique_10_Connect_42_city" nd:nd-id="city" placement="inline" width="14cm"/></fig>
+                        <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/4.png" id="unique_10_Connect_42_city" nd:nd-id="city" placement="inline" width="14cm"/></fig>
                         <note class="- topic/note " id="unique_10_Connect_42_note1" nd:nd-id="note1">Для отображения названий только на русском языке
                             можно установить галочку в ячейке «Показывать данные только на русском
                             языке» (по умолчанию галочка установлена).</note>
-                        <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/12.png" id="unique_10_Connect_42_language" nd:nd-id="language" placement="inline" width="12cm"/></fig>
+                        <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/12.png" id="unique_10_Connect_42_language" nd:nd-id="language" placement="inline" width="12cm"/></fig>
                         <note class="- topic/note " id="unique_10_Connect_42_note2" nd:nd-id="note2">можно выбрать Модули расширения (к примеру «Дополнительный
                             модуль GPS»).</note>
-                        <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/3.png" id="unique_10_Connect_42_modul" nd:nd-id="modul" placement="inline" width="12cm"/></fig>
+                        <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/3.png" id="unique_10_Connect_42_modul" nd:nd-id="modul" placement="inline" width="12cm"/></fig>
                         
                     </li>
                     <li class="- topic/li ">
-                        <p class="- topic/p ">После установки выбранных городов закройте окно «Центра обновлений» —
-                            2ГИС откроется автоматически.</p>
+                        <p class="- topic/p ">После установки выбранных городов закройте окно «Центра обновлений» -
+                            программа 2ГИС откроется автоматически.</p>
                     </li>
                 </ol>
             </p>
             
-            <p class="- topic/p ">В правом верхнем углу окна «Центр обновлений 2ГИС» имеются кнопки со значком круговой 
+            <p class="- topic/p ">В правом верхнем углу окна «Центр обновлений 2ГИС» имеются кнопка со значком круговой
                 стрелки для обновления данных с сервером 2ГИС </p>
-            <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/8.png" id="unique_10_Connect_42_update" nd:nd-id="update" placement="inline" width="4cm"/></fig>
+            <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/8.png" id="unique_10_Connect_42_update" nd:nd-id="update" placement="inline" width="4cm"/></fig>
                     <p class="- topic/p ">Если вы хотите установить 2ГИС под Linux, <xref class="- topic/xref " format="html" href="https://info.2gis.ru/moscow/products/download#linux" scope="external"><?ditaot usertext?>скачайте</xref> архивы оболочки и базы данных справочника,
                 распакуйте загруженные пакеты в домашнюю директорию.</p>
             <p class="- topic/p ">В случае некорректного отображения шрифтов в программе необходимо будет добавить
@@ -401,18 +412,18 @@
         <section class="- topic/section ">
             <title class="- topic/title "><b class="+ topic/ph hi-d/b ">Настройка «Центр обновлений» 2ГИС</b></title>
             <p class="- topic/p ">Чтобы выполнить настройку Центра обновлений или изменить параметры связи, кликните на
-                кнопку со значком шестиренки в правом верхнем углу окна Центра обновлений. </p>
-            <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/8.png" id="unique_10_Connect_42_gear" nd:nd-id="gear" placement="inline" width="4cm"/></fig>
+                кнопку со значком шестеренки в правом верхнем углу окна Центра обновлений. </p>
+            <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/8.png" id="unique_10_Connect_42_gear" nd:nd-id="gear" placement="inline" width="4cm"/></fig>
             <p class="- topic/p "><b class="+ topic/ph hi-d/b "><b class="+ topic/ph hi-d/b ">Предпочтительный сервер</b></b></p>
             <p class="- topic/p ">Выберите предпочтительный сервер обновлений. Это может быть сервер обновлений 2ГИС в
                 интернете (по умолчанию) или альтернативный сервер обновлений (например,
                 установленный в вашей локальной сети c установленной программой <xref class="- topic/xref " format="html" href="https://help.2gis.ru/pc/update/server" scope="external"><?ditaot usertext?>Сервер обновлений 2ГИС</xref>). Наличие альтернативного сервера уточните у
                 системного администратора сети. </p>
-            <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/6.png" id="unique_10_Connect_42_settings" nd:nd-id="settings" placement="inline" width="10cm"/></fig>
+            <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/6.png" id="unique_10_Connect_42_settings" nd:nd-id="settings" placement="inline" width="9cm"/></fig>
             <p class="- topic/p "><b class="+ topic/ph hi-d/b "><b class="+ topic/ph hi-d/b ">Загрузки обновлений 2ГИС с сервера в локальной сети</b></b></p>
             <p class="- topic/p ">Для загрузки обновлений 2ГИС с сервера в локальной сети, необходимо в настройках 
                 Центра обновлений добавить адрес этого сервера в список альтернативных серверов. </p>
-            <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/11.png" id="unique_10_Connect_42_internetsetting" nd:nd-id="internetsetting" placement="inline" width="12cm"/></fig>
+            <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/11.png" id="unique_10_Connect_42_internetsetting" nd:nd-id="internetsetting" placement="inline" width="10cm"/></fig>
             <p class="- topic/p "><b class="+ topic/ph hi-d/b "><i class="+ topic/ph hi-d/i ">В качестве адреса сервера обновлений может быть, например:</i></b></p>
             <p class="- topic/p ">http://192.168.1.100/2GIS/UpdSrv/</p>
             <p class="- topic/p "><i class="+ topic/ph hi-d/i ">где:</i></p>
@@ -457,7 +468,7 @@
             <p class="- topic/p "><b class="+ topic/ph hi-d/b "><b class="+ topic/ph hi-d/b ">Настройки подключения</b></b></p>
             <p class="- topic/p ">В окне Настройки обновления имеется кнопка Настройки подключения для настройки прокси для доступа 
                 в Интернет и параметров авторизации на сервере.</p>
-            <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/13.png" id="unique_10_Connect_42_save" nd:nd-id="save" placement="inline" width="14cm"/></fig>
+            <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/13.png" id="unique_10_Connect_42_save" nd:nd-id="save" placement="inline" width="11cm"/></fig>
        
         </section>
         <section class="- topic/section ">
@@ -474,13 +485,13 @@
                 <ol class="- topic/ol " id="unique_10_Connect_42_ol_ftz_252_pyb" nd:nd-id="ol_ftz_252_pyb">
                     <li class="- topic/li ">Для перехода в «Центр обновлений 2ГИС» из программы ПК-версии нажмите в
                         правом верхнем углу экрана приложения на кнопку Центр обновлений, или
-                        выберите пункт «Центр обновлений» в верхнем меню 2ГИС для компьютера. <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/14.png" id="unique_10_Connect_42_fig_xvq_dv2_pyb" nd:nd-id="fig_xvq_dv2_pyb" placement="inline" width="8cm"/></fig>
+                        выберите пункт «Центр обновлений» в верхнем меню 2ГИС для компьютера. <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/14.png" id="unique_10_Connect_42_fig_xvq_dv2_pyb" nd:nd-id="fig_xvq_dv2_pyb" placement="inline" width="6cm"/></fig>
                         <note class="- topic/note " id="unique_10_Connect_42_note_igw_rw2_pyb" nd:nd-id="note_igw_rw2_pyb">В центре обновлений 2ГИС вы можете удалить
-                            ненужную базу города, на жав на крестик появляющийся при наведении
+                            ненужную базу города, на жав на крестик, появляющийся при наведении
                             курсора мышки на базу в окне центра обновлений 2ГИС. 
-                            <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/10.png" id="unique_10_Connect_42_fig_vkd_cx3_pyb" nd:nd-id="fig_vkd_cx3_pyb" placement="inline" width="12cm"/></fig></note></li>
+                            <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/10.png" id="unique_10_Connect_42_fig_vkd_cx3_pyb" nd:nd-id="fig_vkd_cx3_pyb" placement="inline" width="12cm"/></fig></note></li>
                     <li class="- topic/li "> Отметьте галочкой город, карту которого вы хотите обновить, и нажмите
-                        кнопку «Установить». <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/vadim/Desktop/DITAManuals/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/15.png" id="unique_10_Connect_42_fig_fjz_pv2_pyb" nd:nd-id="fig_fjz_pv2_pyb" placement="inline" width="11cm"/><note class="- topic/note " id="unique_10_Connect_42_note_hsw_xx2_pyb" nd:nd-id="note_hsw_xx2_pyb">Рекомендуется настроить «Центр обновлений
+                        кнопку «Установить». <fig class="- topic/fig "><image align="center" class="- topic/image " href="file:/C:/Users/user/Desktop/Project/2GISusermanual/Project/workdocs/Manual/UserManual/UM2GIS/topics/images/15.png" id="unique_10_Connect_42_fig_fjz_pv2_pyb" nd:nd-id="fig_fjz_pv2_pyb" placement="inline" width="10cm"/><note class="- topic/note " id="unique_10_Connect_42_note_hsw_xx2_pyb" nd:nd-id="note_hsw_xx2_pyb">Рекомендуется настроить «Центр обновлений
                                 2ГИС» на автоматическое скачивание и установку обновлений. Для этого
                                 зайдите в «Центр обновлений» → «Настройки» → «Способ обновления» →
                                 «Полностью автоматический».</note></fig></li>
@@ -494,7 +505,7 @@
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Описание операций технологического процесса обработки данных</ph></title>
     
     <taskbody class="- topic/body task/taskbody ">
-        <context class="- topic/section task/context ">Программой <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> геолокационной программы <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> выполняются операции по загрузке, сравнению, обновлению, проверке
+        <context class="- topic/section task/context ">Программой <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> геолокационной программы <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> выполняются операции по загрузке, сравнению, обновлению, проверке
             и сохранению геолокационных данных, обеспечивая актуальность и точность информации на
             карте и в адресных справочниках.<p class="- topic/p ">Имеются операции технологического процесса обработки
                 данных:</p></context>
@@ -507,7 +518,7 @@
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Сравнение данных: </b>Программа сравнивает загруженные данные с имеющейся
                     базой данных. Она анализирует изменения и различия между новыми данными и
-                    существующими записями.. </cmd>
+                    существующими записями. </cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Обработка данных:</b> В этой операции происходит обработка данных с
@@ -545,7 +556,8 @@
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
             <p class="- topic/p ">В случае несоблюдения условий выполнения технологического процесса обновления
-                геолокационных данных программы <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword>, следующие действия могут быть предприняты:</p>
+                геолокационных данных программы <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword>, при использовании
+                <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>, следующие действия могут быть предприняты:</p>
         </context>
         <steps class="- topic/ol task/steps ">
             <step class="- topic/li task/step ">
@@ -559,7 +571,7 @@
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Анализ ошибки:</b> После обнаружения ошибки или несоответствия будет
                     проведен анализ причин, которые могли привести к данной ошибке. Это может
                     включать анализ логов, проверку входных данных или процесса обновления, и другие
-                    методы анализа, чтобы понять, почему произошла ошибка..</cmd>
+                    методы анализа, чтобы понять, почему произошла ошибка.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Восстановление данных:</b> После анализа ошибки и определения причин
@@ -708,30 +720,30 @@
             ситуациях:</p></context>
         <steps class="- topic/ol task/steps ">
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Постарайтесь установить причину аварии.</b> Разберитесь, были ли какие-либо
-                    ошибки или сбои в работе программы, возможно, это связано с проблемами в сети
-                    или на сервере.</cmd>
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Постарайтесь установить причину аварийной ситуации.</b> Разберитесь, были ли
+                    какие-либо ошибки или сбои в работе программы, возможно, это связано с
+                    проблемами в сети или на сервере.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Проверьте соединение с интернетом.</b> Убедитесь, что у вас есть стабильное
                     и надежное соединение с интернетом. Если проблема связана с сетью, попробуйте
-                    перезагрузить рер или обратитесь к администратору сети.</cmd>
+                    перезагрузить роутер или обратитесь к администратору сети.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Перезапустите программу.</b> Закройте программу <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword>
-                    данных программы <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> и запустите ее заново. Это может
-                    помочь в случае временного сбоя.</cmd>
+                    программы <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> и запустите ее заново. Это может помочь в
+                    случае временного сбоя.</cmd>
             </step>
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Обновите программу. Если у вас устаревшая версия программы, попробуйте обновить
-                    ее до последней доступной версии. Может быть, в новой версии исправлены
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Обновите программу.</b> Если у вас устаревшая версия программы, попробуйте
+                    обновить ее до последней доступной версии. Может быть, в новой версии исправлены
                     проблемы, с которыми вы столкнулись.</cmd>
             </step>
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Свяжитесь с технической поддержкой. </b><keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword>. одно
-                    из вышеперечисленных действий не помогло, обратитесь в службу технической
-                    поддержки <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword>. Им сообщите о проблеме и отправьте им
-                    все необходимые детали и логи для анализа проблемы.</cmd>
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Свяжитесь с технической поддержкой.</b> В случае, если одно из
+                    вышеперечисленных действий не помогло, обратитесь в службу технической поддержки
+                        <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword>. Сообщите им о проблеме и отправьте им все
+                    необходимые данные и логи для анализа проблемы.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Действуйте согласно инструкциям технической поддержки.</b> После связи с
@@ -762,7 +774,7 @@
                     геолокационных данных без риска повредить реальные данные.</cmd>
             </step>
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Обратитесь к опытным пользователям:</b> Если у вас возникли сожности с
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Обратитесь к опытным пользователям:</b> Если у вас возникли сложности с
                     использованием или вопросы, не стесняйтесь обратиться за помощью к опытным
                     пользователям <keyword class="- topic/keyword " keyref="prodName">ПК-версия «2ГИС»</keyword> или в специализированном сообществе.
                     Они смогут поделиться своим опытом и дать ценные советы.</cmd>
@@ -780,13 +792,12 @@
     
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
-            <p class="- topic/p ">Для программы центр обновления имется следующие рекомендации по
-                эксплуатации:</p></context>
+            <p class="- topic/p ">Для программы <keyword class="- topic/keyword " keyref="modName">«Центр обновлений» ПП «2ГИС» </keyword> имеется следующие рекомендации по эксплуатации:</p></context>
         <steps class="- topic/ol task/steps ">
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Регулярные обновления программы: </b>Убедитесь, что программа всегда
                     обновлена до последней версии. Это позволит получить доступ к новым функциям,
-                    улучшенной производительности и актуальным геолокационным данным.. Следите за
+                    улучшенной производительности и актуальным геолокационным данным. Следите за
                     новыми обновлениями и устанавливайте их как можно раньше.</cmd>
             </step>
             <step class="- topic/li task/step ">
@@ -824,7 +835,7 @@
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Защита данных: </b>Обеспечьте безопасность ваших данных при работе с
                     программой. Используйте надежные пароли, обновляйте антивирусное программное
-                    обеспечение и следите за безопасностью вашего компьютера..</cmd>
+                    обеспечение и следите за безопасностью вашего компьютера.</cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Мониторинг сети:</b> Обратите внимание на доступность сети во время работы

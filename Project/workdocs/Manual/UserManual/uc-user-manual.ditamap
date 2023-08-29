@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="modUpdateCenterManual" xml:lang="ru">
 
-    <title>Геоинформационная система «<keyword keyref="prodName"/>&#160;<keyword keyref="modName"/>».
+    <title>Геоинформационная система «<keyword keyref="prodName"/>&#160;<keyword keyref="modName"/>.
         Руководство пользователя</title>
     <mapref href="Common/prodkeys.ditamap"/>
     <mapref href="../../../workdocs/Manual/UserManual/UM2GIS/modkeys.ditamap"/>
